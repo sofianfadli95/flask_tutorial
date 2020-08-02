@@ -1,0 +1,5 @@
+Flask
+Flask-RESTful
+Flask-JWT
+psycopg2
+uwsgi
