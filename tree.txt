@@ -1,0 +1,34 @@
+Folder PATH listing
+Volume serial number is 0000007D A0DC:0720
+D:.
+³   app.py
+³   security.py
+³   tree.txt
+³   
+ÃÄÄÄmodels
+³   ³   item.py
+³   ³   store.py
+³   ³   user.py
+³   ³   __init__.py
+³   ³   
+³   ÀÄÄÄ__pycache__
+³           item.cpython-37.pyc
+³           store.cpython-37.pyc
+³           user.cpython-37.pyc
+³           __init__.cpython-37.pyc
+³           
+ÃÄÄÄresources
+³   ³   item.py
+³   ³   store.py
+³   ³   user.py
+³   ³   __init__.py
+³   ³   
+³   ÀÄÄÄ__pycache__
+³           item.cpython-37.pyc
+³           store.cpython-37.pyc
+³           user.cpython-37.pyc
+³           __init__.cpython-37.pyc
+³           
+ÀÄÄÄ__pycache__
+        security.cpython-37.pyc
+        
